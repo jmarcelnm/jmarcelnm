@@ -2,16 +2,12 @@
 
 <div>
   <img
-    height="250"
-    width="485"
-    align="left"
+    align="center"
     alt="stats"
     src="https://github-readme-stats.vercel.app/api?username=jmarcelnm&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=My+GitHub+Stats"
   />
   <img
-    height="250"
-    width="485"
-    align="right"
+    align="center"
     alt="top_langs"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jmarcelnm&theme=dark"
   />
