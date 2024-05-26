@@ -35,14 +35,14 @@
   <img height="30" width="40" align="center" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"/>
   
   <img height="30" width="40" align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
-  <img height="30" width="40" align="center" alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
   <img height="30" width="40" align="center" alt="Vuetify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/>
 
-  <img height="30" width="40" align="center" alt="Insomnia" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"/>
-  <img height="30" width="40" align="center" alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>
+  <img height="30" width="40" align="center" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
   
   <img height="30" width="40" align="center" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img height="30" width="40" align="center" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  
+  <img height="30" width="40" align="center" alt="Insomnia" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"/>
   
   <img height="30" width="40" align="center" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img height="25" width="35" align="center" alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"/>
