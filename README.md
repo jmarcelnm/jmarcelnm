@@ -20,6 +20,8 @@
   <img height="30" width="40" align="center" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
   <img height="30" width="40" align="center" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img height="30" width="40" align="center" title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img height="30" width="40" align="center" title="C" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
+  <img height="30" width="40" align="center" title="C#" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/>
   <img height="30" width="40" align="center" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
   <img height="30" width="40" align="center" title="PHP" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 </div>
@@ -44,6 +46,8 @@
 ## Tools 🛠️
 
 <div style="display: inline_block">
+  <img height="30" width="40" align="center" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
+  
   <img height="30" width="40" align="center" title="MariaDB" alt="MariaDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"/>
   <img height="30" width="40" align="center" title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img height="30" width="40" align="center" title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
