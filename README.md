@@ -1,17 +1,8 @@
 ## About me 📃
 
-<div style="display: inline_block">
-  <img
-    align="center"
-    alt="stats"
-    src="https://github-readme-stats.vercel.app/api?username=jmarcelnm&theme=transparent&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=My+GitHub+Stats"
-  />
-  <img
-    align="center"
-    alt="top_langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jmarcelnm&theme=transparent"
-  />
-</div>
+I'm all about growing my skills and knowledge to reach a higher level of expertise.<br>
+I love learning new tools, methods, and concepts that help me contribute to the development and evolution of systems.<br>
+I'm also a strong believer in the power of teamwork and enjoy collaborating with others to achieve common goals.
 
 ## Key Technologies 💻
 
