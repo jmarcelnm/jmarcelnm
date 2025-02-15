@@ -33,6 +33,7 @@
   <img height="30" width="40" align="center" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img height="30" width="40" align="center" title="Vue.js" alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
   <img height="30" width="40" align="center" title="Node.js" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img height="30" width="40" align="center" title="Nest.js" alt="Nest.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
   <img height="30" width="40" align="center" title="Spring" alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img height="30" width="40" align="center" title="Laravel" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"/>
   <img height="30" width="40" align="center" title="JQuery" alt="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg"/>
@@ -48,4 +49,5 @@
   <img height="30" width="40" align="center" title="Jest" alt="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
   <img height="30" width="40" align="center" title="Selenium" alt="Selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"/>
   <img height="30" width="40" align="center" title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img height="30" width="40" align="center" title="Postman" alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>
 </div>
